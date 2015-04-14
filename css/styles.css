@@ -476,6 +476,15 @@ Buttons
     color: #4b98a9;
     font-size: 16px;
 }
+.use-btn2 {
+    display: inline-block;
+    margin: 0 10px 10px 0;
+    padding: 20px 50px;
+    border-radius: 3px;
+    background-color: #1abc8c;
+    color: #000000;
+    font-size: 16px;
+}
 .use-btn:hover, .use-btn:focus {
     background-color: #73d0da;
     color: #fff;
